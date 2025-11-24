@@ -474,7 +474,6 @@
             }, 3000);
         }
 
-
         // --- Khởi tạo ứng dụng ---
         window.addEventListener('hashchange', router);
         window.addEventListener('load', router);
